@@ -19,12 +19,18 @@
 
 ##### As an aspiring software engineer and current computer science student, I have a strong foundation in computer science principles, complemented by practical experience gained through various projects. My interests are in data structures, algorithms, databases, operating systems, and networking. I am passionate about programming and actively contribute to open-source projects, seeking opportunities to apply my skills and collaborate on innovative software solutions.
 
+## What I do
+##### Last two years, I have been learning a variety of programming languages and technologies, including HTML, CSS, JavaScript, C, C++, Python, MySQL, PostgreSQL, React, and Django. My goal is to become a proficient full-stack developer and problem solver. To enhance my skills, I have created several small projects and actively solve problems on online judge platforms such as LeetCode, Codeforces, CodeChef, and HackerRank.
+
+## My Online Judge Profile
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/robot_riad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/robot_riad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/riadhosain420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/ROBOT_RIAD/) 
+
 ## Education:
 <h3>Institute name: AIICT</h3>
 Bachelor of Science in Computer Science and Engineering
 
-## What I do
-##### Last two years, I have been learning a variety of programming languages and technologies, including HTML, CSS, JavaScript, C, C++, Python, MySQL, PostgreSQL, React, and Django. My goal is to become a proficient full-stack developer and problem solver. To enhance my skills, I have created several small projects and actively solve problems on online judge platforms such as LeetCode, Codeforces, CodeChef, and HackerRank.
+
+
 
 
 
