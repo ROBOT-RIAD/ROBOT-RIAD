@@ -31,12 +31,11 @@
 ##### Operating Systems: Windows.
 #####  FRAMEWORK:  Bootstrap, Tailwindcss, Django, Django Rest API, React.
 
-
-
-
 ## Education:
 <h3>Institute name: AIICT</h3>
 Bachelor of Science in Computer Science and Engineering
+
+# Projects
 
 
 
