@@ -24,6 +24,6 @@
 
 ## Education:
 <h3>Institute name: AIICT</h3>
-##### Bachelor of Science in Computer Science and Engineering
+Bachelor of Science in Computer Science and Engineering
 
 
