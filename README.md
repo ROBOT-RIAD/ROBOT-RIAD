@@ -23,7 +23,7 @@
 ##### Last two years, I have been learning a variety of programming languages and technologies, including HTML, CSS, JavaScript, C, C++, Python, MySQL, PostgreSQL, React, and Django. My goal is to become a proficient full-stack developer and problem solver. To enhance my skills, I have created several small projects and actively solve problems on online judge platforms such as LeetCode, Codeforces, CodeChef, and HackerRank.
 
 ## Education:
-## Institute name: AIICT
+<h3>Institute name: AIICT</h3>
 ##### Bachelor of Science in Computer Science and Engineering
 
 
