@@ -15,4 +15,9 @@
     </a>
 </div>
 
+## Objective:
+
+##### As an aspiring software engineer and current computer science student, I have a strong foundation in computer science principles, complemented by practical experience gained through various projects. my interests in data structures, algorithms, databases, operating systems, and networking. I am passionate about programming and actively contribute to open-source projects, seeking opportunities to apply my skills and collaborate on innovative software solutions.
+
+
 
