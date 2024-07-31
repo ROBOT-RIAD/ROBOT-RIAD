@@ -25,10 +25,13 @@
 ## My Online Judge Profile
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/robot_riad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/robot_riad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/riadhosain420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/ROBOT_RIAD/) 
 
-## Technical Skills:
-##### Programming Languages: Python, C++, JavaScript .
-##### Databases: SQL , MySQL .
-##### Operating Systems: Windows
+## Technical Skills and Technologies:
+##### Programming Languages: Python, C++, JavaScript.
+##### Databases: SQL, MySQL.
+##### Operating Systems: Windows.
+#####  FRAMEWORK:  Bootstrap, Tailwindcss, Django, Django Rest API, React.
+
+
 
 
 ## Education:
