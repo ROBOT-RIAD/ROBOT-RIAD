@@ -49,6 +49,20 @@ Bachelor of Science in Computer Science and Engineering
 
 #### 🌠 PH-TUBE:
 #####  I am developing a dynamic PH-TUBE website using HTML, CSS, and the Bootstrap framework to create a responsive layout. JavaScript for DOM manipulation and real-time updates.Project Github Link and LiveLink.
+## Django:
+#### 🌠 Train:
+##### I'm developing a train ticket booking system using Language HTML, CSS, PYTHON, FRAMEWORK Tailwindcss, AND Django. Project Github Link, Entity Diagram, and Live Link.
+#### 🌠 Real media:
+##### I'm developing a social media use Language HTML, CSS, PYTHON and FRAMEWORK Tailwindcss AND Django. Project Github Link, Entity Diagram, and Live Link.
+#### 🌠 MY BANK:
+##### I'm developing a my bank system use the Language HTML, CSS PYTHON and FRAMEWORK Tailwindcss, AND Django. Project Github Link, Entity Diagram, and Live Link.
+#### 🌠 MY SHOP:
+##### I'm developing an e-commerce site using Language HTML, CSS PYTHON, and FRAMEWORK
+Tailwindcss AND Django.Project Github Link, Entity Diagram, and Live Link.
+
+
+
+
 
 
 
