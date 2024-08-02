@@ -57,8 +57,16 @@ Bachelor of Science in Computer Science and Engineering
 #### 🌠 MY BANK:
 ##### I'm developing a my bank system use the Language HTML, CSS PYTHON and FRAMEWORK Tailwindcss, AND Django. Project Github Link, Entity Diagram, and Live Link.
 #### 🌠 MY SHOP:
-##### I'm developing an e-commerce site using Language HTML, CSS PYTHON, and FRAMEWORK
-Tailwindcss AND Django.Project Github Link, Entity Diagram, and Live Link.
+##### I'm developing an e-commerce site using Language HTML, CSS PYTHON, FRAMEWORK Tailwindcss, AND Django. Project Github Link, Entity Diagram, and Live Link.
+
+## Django Rest API :
+#### 🌠 Smart Care:
+##### I'm developing a hospital management system using the Language PYTHON and FRAMEWORK Django rest API. Project Github Link, Entity Diagram, and Live Link.
+
+## React : (Knowledge)
+#### 🌠 My restaurant :
+##### a dynamic and interactive web application built with React.Project Github Link and Live Link.
+
 
 
 
