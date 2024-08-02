@@ -40,6 +40,17 @@ Bachelor of Science in Computer Science and Engineering
 ## HTML AND CSS :
 #### 🌠 MOBILE SHOP :
 ##### I am creating a mobile shop website using HTML and CSS with the Bootstrap framework. Project Github Link and Live Link. 
+#### 🌠 My website:
+#####  I am creating a My website using HTML and CSS with the Bootstrap framework. Project Github Link and Live Link.
+
+## HTML, CSS, AND JavaScript :
+#### 🌠 FOOD:
+#####  I am developing a dynamic food website using HTML, CSS, and the Bootstrap framework to create a responsive layout. JavaScript for DOM manipulation and real-time updates. Project Github Link and Live Link.
+
+#### 🌠 PH-TUBE:
+#####  I am developing a dynamic PH-TUBE website using HTML, CSS, and the Bootstrap framework to create a responsive layout. JavaScript for DOM manipulation and real-time updates.Project Github Link and LiveLink.
+
+
 
 
 
