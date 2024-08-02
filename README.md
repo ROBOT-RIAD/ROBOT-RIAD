@@ -36,7 +36,7 @@
 Bachelor of Science in Computer Science and Engineering
 
 # Projects
-## OOP PYTHON : <button><a href="https://github.com/ROBOT-RIAD/Python-OOP-Based-Project/tree/main/Star%20Cinema">Star Cinema</a></button> , <button><a href="[https://github.com/ROBOT-RIAD/Python-OOP-Based-Project/tree/main/Star%20Cinema](https://github.com/ROBOT-RIAD/Python-OOP-Based-Project/tree/main/Bank%20Management%20System)">Bank Management System</a></button>
+## OOP PYTHON : <button><a href="https://github.com/ROBOT-RIAD/Python-OOP-Based-Project/tree/main/Star%20Cinema">Star Cinema</a></button> , <button><a href="https://github.com/ROBOT-RIAD/Python-OOP-Based-Project/tree/main/Bank%20Management%20System">Bank Management System</a></button>
 
 
 
