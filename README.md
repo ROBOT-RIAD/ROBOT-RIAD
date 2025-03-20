@@ -66,6 +66,7 @@ Bachelor of Science in Computer Science and Engineering
 ## React : (Knowledge)
 #### 🌠 My restaurant :
 ##### a dynamic and interactive web application built with React.Project Github Link and Live Link.
+##### [a dynamic and interactive web application built with React.Project Github Link and Live Link.](https://phitron.gitbook.io/django/module_23/page)
 
 
 
